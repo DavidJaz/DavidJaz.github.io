@@ -5,7 +5,9 @@ permalink: /about/
 published: true
 ---
 
-I'm a first year graduate student at John's Hopkins University.
+I'm a first year graduate student at Johns Hopkins University.
+
+I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory. 
 
 ## Preprints
 
@@ -24,7 +26,12 @@ P. Thibodeau, \_\_\_ , S. Flusberg, [Similarity-Based Reasoning is Shaped by Rec
 ## Talks and Slides
 
 
+## History 
 
-## Contact me
+2017 - _now_: Johns Hopkins University
 
-[email@domain.com](mailto:email@domain.com)
+Spring 2015: Central European University
+
+Fall 2015: Budapest Semesters in Mathematics
+
+2012 - 2017: Oberlin College
