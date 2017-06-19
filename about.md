@@ -11,7 +11,7 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
-\_\_\_ , [String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762), arXiv:1612.02762, 2016
+\_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
 ## Publications
 
@@ -21,10 +21,11 @@ _Nothing yet._
 
 ### Other
 
-P. Thibodeau, \_\_\_ , S. Flusberg, [Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf), in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
+P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Talks and Slides
 
+_[Thinking Recursively, Rethinking Corecursively](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf)_, for Oberlin Philosophy department, 2015
 
 ## History 
 
