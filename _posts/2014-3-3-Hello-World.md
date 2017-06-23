@@ -12,4 +12,3 @@ Hope the reading is enjoyable,
 
 David
 
-(Check)
