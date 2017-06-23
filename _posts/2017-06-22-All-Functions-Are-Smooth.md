@@ -9,7 +9,7 @@ In [synthetic differential geometry](https://ncatlab.org/nlab/show/synthetic+dif
 
 $$f(\epsilon) = f(0) + s\epsilon$$
 
-for unique slope $s$. In other words, $D$ is a small line which may be placed in space, but not bent; any function of it is linear.
+for unique slope $$s$$. In other words, $$D$$ is a small line which may be placed in space, but not bent; any function of it is linear.
 
 In particular, the K-L axiom lets us take the deriative of any real function by packaging the slopes together into a new function:
 
