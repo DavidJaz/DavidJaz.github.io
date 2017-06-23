@@ -10,7 +10,7 @@ $$f(\epsilon) = f(0) + s\epsilon$$
 for unique slope $s$. In other words, $D$ is a small line which may be placed in space, but not bent; any function of it is linear.
 
 In particular, the K-L axiom lets us take the deriative of any real function by packaging the slopes together into a new function:
-$$f(x + \diff x) = f(x) + \frac{\diff f}{\diff x}(x)\diff x,\quad\mbox{for nilsquare $\diff x$}$$
+$$f(x + \textbf{d} x) = f(x) + \frac{\textbf{d} f}{\textbf{d} x}(x)\textbf{d} x,\quad\mbox{for nilsquare $\textbf{d} x$}$$
 
 So we can take the derivative of any function, including the derivatives we take. Therefore, all functions are smooth. But wait! Are we not very familiar with functions that not only are not smooth, but are even not differentiable? Where did all the functions go. How could we live in a world without them?
 
