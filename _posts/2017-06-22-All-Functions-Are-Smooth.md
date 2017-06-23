@@ -5,7 +5,7 @@ published: false
 
 In [synthetic differential geometry](https://ncatlab.org/nlab/show/synthetic+differential+geometry), all real functions of a real variable are smooth -- infinitely differentiable. This is due to the Kock-Lawvere axiom, which says:
 
-**Kock-Lawvere Axiom** Let $D = \{ \epsilon : \mathcal{R} \mid \epsilon^2 = 0\}$ be the set of nilsquare infinitesimals. Every function $f : D \to \mathcal{R}$ is of the form
+**Kock-Lawvere Axiom** Let $D = \{ \epsilon \in \mathcal{R} \mid \epsilon^2 = 0\}$ be the set of nilsquare infinitesimals. Every function $f : D \to \mathcal{R}$ is of the form
 $$f(\epsilon) = f(0) + s\epsilon$$
 for unique slope $s$. In other words, $D$ is a small line which may be placed in space, but not bent; any function of it is linear.
 
