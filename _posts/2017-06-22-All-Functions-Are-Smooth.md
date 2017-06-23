@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## All Functions Are Smooth!? What about...
 
