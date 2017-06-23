@@ -4,6 +4,10 @@ title: Hello World!
 published: true
 ---
 
-Let's see if we can write some math.
+Hello,
 
-$$f(x) = 2x + 1$$
+I'll be using this blog to post some musings about mathematics and otherwise.
+
+Hope the reading is enjoyable,
+
+David
