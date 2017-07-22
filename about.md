@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm a first year graduate student at Johns Hopkins University.
+I'm a first year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory. 
 
@@ -24,8 +24,9 @@ _Nothing yet._
 P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Talks and Slides
+_String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/blob/master/Talks/myers_d.pdf)
 
-_[Thinking Recursively, Rethinking Corecursively](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf)_, for Oberlin Philosophy department, 2015
+_Thinking Recursively, Rethinking Corecursively_, for Oberlin Philosophy department, 2015 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/blob/master/Talks/Corecursion%20Flyer.pdf) 
 
 ## History 
 
