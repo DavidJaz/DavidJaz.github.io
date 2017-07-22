@@ -24,7 +24,7 @@ _Nothing yet._
 P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Talks and Slides
-_String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/myers_d.pdf)
+_String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/DJaz_CT17_Strings.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/myers_d.pdf)
 
 _Thinking Recursively, Rethinking Corecursively_, for Oberlin Philosophy department, 2015 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/Corecursion%20Flyer.pdf) 
 
