@@ -26,6 +26,8 @@ P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Re
 ## Talks and Slides
 _String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/DJaz_CT17_Strings.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/myers_d.pdf)
 
+_Weighted (Co)Limits_, at [CT 2017](http://www.mat.uc.pt/~ct2017/) with the [Kan Extension Seminar](http://www.math.jhu.edu/~eriehl/kanII/), 2017 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CT2017_Kan_DJM.pdf)
+
 _Thinking Recursively, Rethinking Corecursively_, for Oberlin Philosophy department, 2015 [\[slides\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/CoRecursion.pdf) [\[abstract\]](https://github.com/DavidJaz/DavidJaz.github.io/raw/master/Talks/Corecursion%20Flyer.pdf) 
 
 ## History 
