@@ -36,7 +36,7 @@ We can follow this up by expanding what it means for the identity map to be cons
 
 **Proof:** This is exactly what it means for the identity of $C$ to be constant. If the identity of $C$ is constant, then for any $x, y : X \to C$ we have that $x = C \circ x = C \circ y = y$. On the other hand, if for any two $x, y : X \to C$, $x = y$, then $C \circ x = C \circ y$.
 
-Furthermore, any quantity varying within a constant domain is in fact constant.
+Furthermore, any quantity varying within a constant domain is in fact constant. Intuitively, this is because "there isn't enough space in a constant domain to vary".
 
 **Claim:** A domain $C$ is constant if and only if every quantity $q : X \to C$ is constant.
 
@@ -48,7 +48,7 @@ Now we can begin to see the relationship to the terminal object.
 
 **Proof:** The uniqueness portion of the universal property gaurentees that there is at most one map $X \to 1$ for any $X$.
 
-In fact, if there is a terminal object, we can give another characterization of the constant domains. Let's prove a few basic lemmas about constant domains first.
+In fact, if there is a terminal object, we can give another characterization of the constant domains. Let's prove a few basic lemmas relating constant maps to monic maps. Intuitively, monic maps are "one-to-one". If ther is "at most one" element of the domain (that is, the domain is constant), then every map out of it should be one-to-one.
 
 **Lemma:** Every quantity varying over a constant domain is monic.
 
@@ -60,7 +60,7 @@ We have a converse to this lemma as well, which we might as well prove now.
 
 **Proof:** Let $x, y : Y \to C$. Since $q$ is constant, $q \circ x = q \circ y$. But then since $q$ is monic, $x = y$.
 
-Furthermore, any part of a constant domain is itself constant.
+Intuitively, if a map is both one-to-one and constant, then there must be "at most one" element of the domain. Furthermore, any part of a constant domain is itself constant.
 
 **Corollary:** If $m : C \to C'$ is a monic, and $C'$ is constant, then $C$ is consant.
 
@@ -70,7 +70,7 @@ Now, we can show that if there is a terminal object, then the constant domains a
 
 **Claim:** If there is a terminal object $1$, then a domain is constant if and only if it is subterminal.
 
-**Proof:** If $C$ is constant, then the terminal map $! : C \to 1$ is monic by the above lemma.  
+**Proof:** If $C$ is constant, then the terminal map $! : C \to 1$ is monic by the above lemma. If $C$ is subterminal, then $! : C \to 1$ is a monic constant, so $C$ is constant.
 
 
 
