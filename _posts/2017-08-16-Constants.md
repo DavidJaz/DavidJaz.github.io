@@ -11,9 +11,9 @@ When answering these questions, I have for a while now fallen back onto another 
 
 Euclid begins his *Elements* with the definition: "A point is that which has no part". This proclamation has colored our intuitions of points ever since. So, if we primarily conceptualize the terminal object as a point, and use that conception as our reason for using it as the domain of constant quantities, then we are conceptually ill-equipped to handle the existence of nontrivial subterminal objects. I remember the idea of nontrivial subterminal objects being difficult to grasp.
 
-We can resolve both of these issues at the same time by directly defining what it means for a quantity to be constant, and what it then means for a domain to be a domain of constant quantities.
+We can resolve both of these issues at the same time by directly defining what it means for a quantity to be constant, and what it then means for a domain to be a domain of constant quantities. This post will be a very elementary theory of constant quantities.
 
-# Definitions and the Basic Theory
+# Definitions and Relationship to the Terminal Object
 
 Let's begin by defining what it means for a quantity to be constant. Intuitively, a quantity $q$ which depends on a variable $t$ is constant if no matter how $t$ is specified, the resulting quantity is the same.  We can formalize this as follows:
 
@@ -35,6 +35,43 @@ We can follow this up by expanding what it means for the identity map to be cons
 **Claim:** A domain $C$ is constant if and only if there is at most one quantity $X \to C$ for each domain $X$.
 
 **Proof:** This is exactly what it means for the identity of $C$ to be constant. If the identity of $C$ is constant, then for any $x, y : X \to C$ we have that $x = C \circ x = C \circ y = y$. On the other hand, if for any two $x, y : X \to C$, $x = y$, then $C \circ x = C \circ y$.
+
+Furthermore, any quantity varying within a constant domain is in fact constant.
+
+**Claim:** A domain $C$ is constant if and only if every quantity $q : X \to C$ is constant.
+
+**Proof:** If $C$ is constant and $x, y : Y \to X$, then $q \circ x = q \circ y$ since they are both maps $Y \to C$. On the other hand, if every quantity $q : X \to C$ is constant, then in particular the identity of $C$ is constant.
+
+Now we can begin to see the relationship to the terminal object.
+
+**Corollary:** The terminal object $1$, if it exists, is constant.
+
+**Proof:** The uniqueness portion of the universal property gaurentees that there is at most one map $X \to 1$ for any $X$.
+
+In fact, if there is a terminal object, we can give another characterization of the constant domains. Let's prove a few basic lemmas about constant domains first.
+
+**Lemma:** Every quantity varying over a constant domain is monic.
+
+**Proof:** If $q : C \to X$ is a quanity varying over a constant domain, then for any two maps $x, y : Y \to C$ such that $q \circ x = q \circ y$ (which happens to be any $x, y : Y \to C$), we have that $x = y$ (since $C$ is constant). 
+
+We have a converse to this lemma as well, which we might as well prove now.
+
+**Lemma:** Suppose that $q : C \to X$ is constant and monic. Then $C$ is constant.
+
+**Proof:** Let $x, y : Y \to C$. Since $q$ is constant, $q \circ x = q \circ y$. But then since $q$ is monic, $x = y$.
+
+Furthermore, any part of a constant domain is itself constant.
+
+**Corollary:** If $m : C \to C'$ is a monic, and $C'$ is constant, then $C$ is consant.
+
+**Proof:** Maps into a constant domain are constant, and the domain of a constant monic map is constant.
+
+Now, we can show that if there is a terminal object, then the constant domains are precisely the subterminal objects.
+
+**Claim:** If there is a terminal object $1$, then a domain is constant if and only if it is subterminal.
+
+**Proof:** If $C$ is constant, then the terminal map $! : C \to 1$ is monic by the above lemma.  
+
 
 
 
