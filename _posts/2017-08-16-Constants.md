@@ -74,11 +74,13 @@ Now, we can show that if there is a terminal object, then the constant domains a
 
 I think this demystifies the subterminal objects somewhat: they are just the possible domains for constant quantities. In fact, I think it also helps demystify the terminal object as a constant domain: in a precise sense, the terminal object is the largest constant domain. We will come to this idea later.
 
-# Relationship of Constants to Products and Pullbacks
+# Relationship of Constants to Pullbacks and Products
 
+With our definition of constant quantity and constant domain in hand, we can formalize the intuition that a monic map is one-to-one. Intuitively, a map is one-to-one if it cannot send two distinct things to the same place. In more positive terms, this means that the inverse image of a constant should be itself constant.
 
+**Claim:** The pullback of a constant along a monic is constant.
 
-
+**Proof:** Let $c : A \to B$ be constant and $m : X \to B$ be monic. We need to show that $m^{\ast}c : X \times_B A \to X$ is constant. Let $x, y : Y \to X \times_B A$. These correspond respectively to $x_1, y_1 : Y \to X$ and $x_2, y_2 : Y \to A$ for which $c \circ x_2 = m \circ x_1$ and $c \circ y_2 = m \circ y_1$. Since $c$ is constant, we have that $c \circ x_2 = c \circ y_2$. From this and the previous equations, we see that $m \circ x_1 = m \circ y_1$. Since $m$ is monic, we conclude that $x_1 = y_1$. But then $x = m^{\ast}c \circ x_1 = m^{\ast}c \circ y_1 = y$, so $m^{\ast}c$ is constant.
 
 
 
