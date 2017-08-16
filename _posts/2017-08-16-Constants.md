@@ -113,9 +113,9 @@ It is fairly common to call an arrow $q : 1 \to X$ a "global element" of $X$. Si
 
 We can think of the constant domains then as "namespaces" in which a constant is defined. A global constant is defined in the global namespace (say, in the "main" file of your project), while the local constants are defined in smaller namespaces (say, within particular class definitions, or whatever). A map $C \to C'$ is a  containment of namespaces (since $C'$ is constant, there can be at most one such map). In this case, any constant defined over in the namespace $C'$ can be used in $C$ by precomposing.
 
-As a simple example of this, consider your file system. The constants are the files. The terminal object is your home director, `C:\`, and the samller constant domains are the more particular paths `C:\Documents\Categories\`. A local constant is then a file in one of these folders, such as `C:\Documents\Categories\cat.jpg`. We have the maps like `cd ..` $:$ `C:\Documents\` $\to$ `C:\` and composites thereof.
+As a simple example of this, consider your file system. The terminal object is your home director, `C:\`, and the samller constant domains are the more particular paths `C:\Documents\Categories\`. A local constant is then a file in one of these folders, such as `C:\Documents\Categories\cat.jpg`. We have the maps like `cd ..` $:$ `C:\Documents\` $\to$ `C:\` and composites thereof.
 
-I'm not sure how well this analogy really plays out. But it is a good idea to think of the different constant domains as different "local domains of definitions for constants". The category of constant domains is then seen to be the category of these possible local domains.
+I'm not sure how well this analogy really plays out. But it *is* a good idea to think of the different constant domains as different "local domains of definition for constants". The category of constant domains is then seen to be the category of these possible local domains.
 
 Given a category $\mathcal{E}$, we can form the category of constant domains $\textbf{Cons}(\mathcal{E})$ in $\mathcal{E}$. Since there is at most one map between any two constant domains, $\textbf{Cons}(\mathcal{E})$ is actually an order. 
 
