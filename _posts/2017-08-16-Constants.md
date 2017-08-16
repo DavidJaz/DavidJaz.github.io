@@ -82,7 +82,15 @@ With our definition of constant quantity and constant domain in hand, we can for
 
 **Proof:** Let $c : A \to B$ be constant and $m : X \to B$ be monic. We need to show that $m^{\ast}c : X \times_B A \to X$ is constant. Let $x, y : Y \to X \times_B A$. These correspond respectively to $x_1, y_1 : Y \to X$ and $x_2, y_2 : Y \to A$ for which $c \circ x_2 = m \circ x_1$ and $c \circ y_2 = m \circ y_1$. Since $c$ is constant, we have that $c \circ x_2 = c \circ y_2$. From this and the previous equations, we see that $m \circ x_1 = m \circ y_1$. Since $m$ is monic, we conclude that $x_1 = y_1$. But then $x = m^{\ast}c \circ x_1 = m^{\ast}c \circ y_1 = y$, so $m^{\ast}c$ is constant.
 
+If we say that a map is "one-to-one" if the pullback of any constant along it is constant, then we have just shown that monic maps are one-to-one. It will not in general be possible to prove a converse, since the monicness of a map must be checked on non-constant quantities (figures of more complicated shape than a point) as well.
 
+There is a nice relationship between constant domains and products. 
+
+**Claim:** $C$ is a constant domain if and only if the diagonal map $\Delta : C \to C \times C$ is an isomorphism.
+
+**Proof:** Suppose that $C$ is constant. Then the two projections $p_1, p_2 : C \times C \to C$ are equal. Call this single map $p : C \times C \to C$. Since $p_1 \circ \Delta = C$, $p \circ \Delta = C$. On the other hand, $\Delta \circ p = (p, p) = (p_1, p_2) = C \times C$, so $p$ is the inverse of $\Delta$.
+
+If $\Delta$ is an isomorphism with inverse $p$, then for any $x, y : X \to C$, we have that $(x, y) = \Delta \circ p \circ (x, y) = (p \circ (x, y), p \circ (x, y))$, so $x = p \circ (x, y) = y$.
 
 
 
