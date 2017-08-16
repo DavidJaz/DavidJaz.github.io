@@ -74,6 +74,10 @@ Now, we can show that if there is a terminal object, then the constant domains a
 
 I think this demystifies the subterminal objects somewhat: they are just the possible domains for constant quantities. In fact, I think it also helps demystify the terminal object as a constant domain: in a precise sense, the terminal object is the largest constant domain. We will come to this idea later.
 
+# Relationship of Constants to Products and Pullbacks
+
+
+
 
 
 
