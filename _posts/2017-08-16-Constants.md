@@ -72,6 +72,7 @@ Now, we can show that if there is a terminal object, then the constant domains a
 
 **Proof:** If $C$ is constant, then the terminal map $! : C \to 1$ is monic by the above lemma. If $C$ is subterminal, then $! : C \to 1$ is a monic constant, so $C$ is constant.
 
+I think this demystifies the subterminal objects somewhat: they are just the possible domains for constant quantities. In fact, I think it also helps demystify the terminal object as a constant domain: in a precise sense, the terminal object is the largest constant domain. We will come to this idea later.
 
 
 
