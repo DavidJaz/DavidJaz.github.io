@@ -104,8 +104,15 @@ It's also straightforward to show that if the diagonal map is constant, then the
 * The diagonal of $C$ is constant.
 * There is a monic constant with domain $C$.
 
+Constant domains play nicely with products in another sense.
 
-# The Category of Constant Domains
+**Claim:** The product of two constant domains is constant.
+
+**Proof:** A map into the product is a pair of maps into each constant domain, but since those domains are constant there is at most one such pair.
+
+By a similar proof, any limit of a diagram of constant domains is constant.
+
+# Constant Domains and Supports
 
 Why are there (potentially) so many different constant domains? If I define a quantity $q : C \to X$, and you define one $q' : C' \to X$, what makes them different? Here, I would like to make an analogy between constant domains and "namespaces" as they arise in programming languages.
 
@@ -113,40 +120,19 @@ It is fairly common to call an arrow $q : 1 \to X$ a "global element" of $X$. Si
 
 We can think of the constant domains then as "namespaces" in which a constant is defined. A global constant is defined in the global namespace (say, in the "main" file of your project), while the local constants are defined in smaller namespaces (say, within particular class definitions, or whatever). A map $C \to C'$ is a  containment of namespaces (since $C'$ is constant, there can be at most one such map). In this case, any constant defined over in the namespace $C'$ can be used in $C$ by precomposing.
 
-As a simple example of this, consider your file system. The terminal object is your home director, `C:\`, and the samller constant domains are the more particular paths `C:\Documents\Categories\`. A local constant is then a file in one of these folders, such as `C:\Documents\Categories\cat.jpg`. We have the maps like `cd ..` $:$ `C:\Documents\` $\to$ `C:\` and composites thereof.
-
 I'm not sure how well this analogy really plays out. But it *is* a good idea to think of the different constant domains as different "local domains of definition for constants". The category of constant domains is then seen to be the category of these possible local domains.
 
-Given a category $\mathcal{E}$, we can form the category of constant domains $\textbf{Cons}(\mathcal{E})$ in $\mathcal{E}$. Since there is at most one map between any two constant domains, $\textbf{Cons}(\mathcal{E})$ is actually an order. 
+**Definition:** An object $X$ is *defined over* a constant domain $U$ if there is a map $X \to U$.
 
-If $\mathcal{E}$ has a terminal object, then it is the top element of this order. Furthermore, if $\mathcal{E}$ has products, then these give the meets in $\textbf{Cons}(\mathcal{E})$.
+Being defined over a constant domain is a property of an object, not a structure on that object, because there is at most one map into a constant domain. $X$ being defined over $U$ constrains the possible kinds of constants in $X$; If $c : C \to X$ is a constant, then the composite $C \to X \to U$ shows us that $C$ is contained in $U$. Intuitively, $X$ is defined over $U$ if the constants in $X$ are at most defined over $U$.
 
-**Claim:** The product of two constant domains is constant.
+This leads us to the natural question: is there a smallest $U$ over which $X$ is defined?
 
-**Proof:** A map into the product is a pair of maps into each constant domain, but since those domains are constant there is at most one such pair.
+**Claim:** Suppose that for every object $X$, there is a constant domain $\sigma X$ which is the smallest constant domain over which $X$ is defined. Then $\sigma$ is a left adjoint to the inclusion of the constant domains.
 
-**Claim:** The inclusion $\textbf{Cons}(\mathcal{E}) \to \mathcal{E}$ creates limits.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Proof:** The adjoint bijection is
+$$\frac{X \to U}{\sigma X \to U}$$
+which precisely states that $\sigma X$ is the smallest constant domain over which $X$ is defined. The unit shows that $X$ is defined over $\sigma X$. We see that $\sigma$ is functorial as well; given $f : X \to Y$, we take the composite $X \to Y \to \sigma X$ and therefore find that $\sigma X \to \sigma Y$.
 
 
 
