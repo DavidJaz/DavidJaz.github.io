@@ -32,6 +32,14 @@ _String Diagrams, Categories, and Enrichment_, for Honors thesis requirement at 
 
 _Thinking Recursively, Rethinking Corecursively_, for Oberlin Philosophy department, 2015 [\[slides\]](../Talks/CoRecursion.pdf) [\[abstract\]](../Talks/Corecursion%20Flyer.pdf) 
 
+## Blog Posts
+_[A Graphical Calculus for Proarrow Equipments](https://golem.ph.utexas.edu/category/2017/08/a_graphical_calculus_for_proar.html)_, on the [_n_-Category Café](https://golem.ph.utexas.edu/category/)
+
+
+_[Gluing Together Finite Shapes with Kelly](https://golem.ph.utexas.edu/category/2017/04/gluing_together_finite_shapes.html)_, on the [_n_-Category Café](https://golem.ph.utexas.edu/category/), written for the [Kan Extension Seminar](http://www.math.jhu.edu/~eriehl/kanII/)
+
+_[Enrichment and its Limits](https://golem.ph.utexas.edu/category/2017/04/enrichment_and_its_limits.html)_, on the [_n_-Category Café](https://golem.ph.utexas.edu/category/), written for the [Kan Extension Seminar](http://www.math.jhu.edu/~eriehl/kanII/)
+
 ## History 
 
 2017 - _now_: Johns Hopkins University
