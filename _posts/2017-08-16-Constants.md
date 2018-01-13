@@ -51,7 +51,7 @@ Now we can begin to see the relationship to the terminal object.
 
 **Proof:** The uniqueness portion of the universal property gaurentees that there is at most one map $$X \to 1$$ for any $$X$$. $$\square$$
 
-In fact, if there is a terminal object, we can give another characterization of the constant domains. Let's prove a few basic lemmas relating constant maps to monic maps. Intuitively, monic maps are "one-to-one". If ther is "at most one" element of the domain (that is, the domain is constant), then every map out of it should be one-to-one.
+In fact, if there is a terminal object, we can give another characterization of the constant domains. Let's prove a few basic lemmas relating constant maps to monic maps. Intuitively, monic maps are "one-to-one". If there is "at most one" element of the domain (that is, the domain is constant), then every map out of it should be one-to-one.
 
 **Lemma:** Every quantity varying over a constant domain is monic.
 
