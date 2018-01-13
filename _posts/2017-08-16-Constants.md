@@ -139,13 +139,13 @@ $$\frac{X \to U}{\sigma X \to U}$$
 
 which precisely states that $$\sigma X$$ is the smallest constant domain over which $$X$$ is defined. The unit shows that $$X$$ is defined over $$\sigma X$$. We see that $$\sigma$$ is functorial as well; given $$f : X \to Y$$, we take the composite $$X \to Y \to \sigma X$$ and therefore find that $$\sigma X \to \sigma Y$$.
 
-The largest constant domain $$\sigma X$$ over which $$X$$ is defined is usually called its *support*. To see why, let's consider an (abstract) example of a category with interesting constant domains.
+The smallest constant domain $$\sigma X$$ over which $$X$$ is defined is usually called its *support*. To see why, let's consider an (abstract) example of a category with interesting constant domains.
 
 Suppose we are in a category of spaces, where are domains have some sort of continuity or cohesion between their points, and the variables vary continuously. We can think of a map $$p : E \to B$$ then as a *bundle* of spaces $$E_b$$ varying over a variable $$b$$ of $$B$$; namely, $$E_b$$ is the fiber of $$p$$ over $$b$$, in the sense as being the pullback of $$p$$ along $$b$$. We call the category of bundles over $$B$$ and maps which preserve fibers (in the sense that the apparent triangle commutes) the "slice" over $$B$$.
 
 What are the constant domains in the slice? Well, we can note first that the trivial bundle given by the identity of $$B$$ is the terminal object, since for any bundle $$p : E \to B$$, the map $$p : E \to B$$ is a map to the trivial bundle in the slice. Then the constant domains must be precisely the subterminal objects, which is to say they must be bundles $$U \to B$$ for which the terminal morphisms (the bundle map itself) is mono. In other words, they are just the parts of $$B$$.
 
-A local section of a bundle $$p$$, defined over some part $$U$$, is then a constant of $$p$$ defined over $$U$$. The support of a bundle, as the largest constant domain over which it is defined, is precisely the image of the bundle map; this is the largest part of $$B$$ which has non-empty fibers sitting over it. This is the origin of the term "support".
+A local section of a bundle $$p$$, defined over some part $$U$$, is then a constant of $$p$$ defined over $$U$$. The support of a bundle, as the smallest constant domain over which it is defined, is precisely the image of the bundle map; this is the smallest part of $$B$$ which has non-empty fibers sitting over it. This is the origin of the term "support".
 
 # Concluding
 
