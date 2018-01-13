@@ -29,7 +29,7 @@ We can immediately give a less grand and more categorical-feeling characterizati
 
 **Proof:** If $$C$$ is constant, then every map out of it is constant, including the identity. On the other hand, if the identity is constant, then for any map $$q : C \to X$$ and $$x, y : Y \to C$$ we have
 
-$$$$q \circ x = q \circ C \circ x = q \circ C \circ y = q \circ y.$$$$ 
+$$q \circ x = q \circ C \circ x = q \circ C \circ y = q \circ y.$$
 
 $$\square$$
 
@@ -135,7 +135,7 @@ This leads us to the natural question: is there a smallest $$U$$ over which $$X$
 
 **Proof:** The adjoint bijection is
 
-$$$$\frac{X \to U}{\sigma X \to U}$$$$
+$$\frac{X \to U}{\sigma X \to U}$$
 
 which precisely states that $$\sigma X$$ is the smallest constant domain over which $$X$$ is defined. The unit shows that $$X$$ is defined over $$\sigma X$$. We see that $$\sigma$$ is functorial as well; given $$f : X \to Y$$, we take the composite $$X \to Y \to \sigma X$$ and therefore find that $$\sigma X \to \sigma Y$$.
 
