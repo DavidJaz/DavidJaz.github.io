@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Constant Quantities and Constant Domains
 
