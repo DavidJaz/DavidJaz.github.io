@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-When explaining category theory to my friends (which happens more than you might think), I often find myself summing the theory up as "the abstract study of variable quantities". We analyse the notion of a variable quantity into two components: what the quantity *is*, and with what the quantity *varies*. To say that a quantity $$q$$ *is* an number that *varies* with the time (say, if $$q$$ is the position of a beetle as it walks along the edge of a ruler, or the angle in degrees that the sun makes with the horizon), we write $$q : T \to N$$ where $$T$$ is our notion of time and $$N$$ our notion of number. 
+When explaining category theory to my friends (which happens more than you might think), I often find myself summing the theory up as "the abstract study of variable quantities". We analyse the notion of a variable quantity into two components: what the quantity *is*, and with what the quantity *varies*. To say that a quantity $$q$$ *is* a number that *varies* with the time (say, if $$q$$ is the position of a beetle as it walks along the edge of a ruler, or the angle in degrees that the sun makes with the horizon), we write $$q : T \to N$$ where $$T$$ is our notion of time and $$N$$ our notion of number. 
 
 The question comes: how do represent constant quantities? The usual answer: they are quantities $$q : 1 \to X$$, whose domain is a "single point" characterized as the terminal object. But why do these quantities deserve the name "constant"? What is so special about the domain $$1$$?
 
