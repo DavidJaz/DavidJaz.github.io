@@ -25,7 +25,7 @@ A *mean function*, or just a mean for short, is an assignment $m : X^S \to X^P$ 
 Usually, we are interested in means for which $$P= \ast$$ is a single point. 
 
 **Examples:** For all the following, $$P = \ast$$
-* Let $$X = \mathbb{N}$$, $$S = n$$ a finite set. Then an $$S$$-shaped element of $$X$$ is a set of $$n$$ natural numbers. Let $$a : \mathbb{N}^n \to \mathbb{N}$$ be the sum, $$a(\lambda n. x_n) = \sum_{0 \leq i \leq n} x_n$$. 
+* Let $$X = \mathbb{N}$$, $$S = n$$ a finite set. Then an $$S$$-shaped element of $$X$$ is a set of $$n$$ natural numbers. Let $$a : \mathbb{N}^n \to \mathbb{N}$$ be the sum, $$a(\lambda i. x_i) = \sum_{0 \leq i \leq n} x_i$$. 
 
 There is a unique mean $$m : \mathbb{N}^n \to \mathbb{N}$$, and it is defined by 
 $$$$m(\lambda n. x_n) + \cdots + m(\lambda n. x_n) = x_1 + \ldots + x_n$$$$
@@ -43,5 +43,39 @@ be the total mass of a body $$b : B \to X$$. Then a mean $m : X^S \to X$ for thi
 
 A perfect mean is a mean which loses no information. In other words, a perfect mean is a mean for the thing itself, and not just some aspect of it.
 
-**Definition:* A perfect mean is a mean for $$a = \textbf{id}_{X^S}$$. Equivalently, a perfect mean is a section of $$\Delta_c$$.
+**Definition:** A perfect mean is a mean for $$a = \textbf{id}_{X^S}$$. Equivalently, a perfect mean is a section of $$\Delta_c$$.
+
+Intuitively, the existence of a perfect mean should impose strong conditions on the relationship between $$S$$, $$P$$, and $$X$$; if $$X$$ allows a lot of movement, then this must mean that $$S$$ and $$P$$ are very similar, and if $$S$$ and $$P$$ are very different, this must mean $$X$$ is very rigid. We can prove a beginning result to this end.
+
+**Lemma:** Let $$S = 2$ and $$P = 1$$. Then $$X$$ admits a perfect mean if and only if it is subterminal.
+*Proof:* We note that in this case, $$\Delta_c$$ is mono. Therefore, it has a section if and only if it is iso. But an object is subterminal if and only if it is isomorphic to its cartesian square.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
