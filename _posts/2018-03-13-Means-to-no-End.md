@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The arithmetic mean is perhaps one of the oldest mathematical ideas, intimately tied to fairness in mutual endeavor. The arithmetic mean answers the question "what payout would we have gotten if we all got the same payout", or in other words, which $$A$$ makes
 $$$$p_1 + \cdots + p_n = A + \cdots + A$$$$$
@@ -78,3 +78,6 @@ Intuitively, the existence of a perfect mean should impose strong conditions on 
 
 In other words, if you can perfectly average two things, then you had at most one thing.
 
+## Next Time
+
+In the next post on the topic of means, I hope to look into what happens if you turn the intuition around. The idea of a mean was to express an aspect of a complicated figure in terms of the same aspect of a simpler figure. What if we tried to express an aspect of a simple figure in terms of the same aspect of a more complicated figure?
