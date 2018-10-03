@@ -58,10 +58,7 @@ That last property is perhaps useful to single out as a desired characteristic o
 
 **Definition:** A mean $$m$$ is *normal* if $$mc^{\ast} = \textbf{id}$$. 
 
-We can prove a partial converse to the above now.
-
-
-In a category with an epi-mono factorization system, we can factor any aspect $$a : X^S \to Q$$ into $$a = ie$$ with $$i$$ mono and $$e$$ epi. Therefore, if $$a$$ has a normal mean $$m$$, then $$m$$ is a normal mean for $$e$$ as well and therefore is an inverse to $$c^{\ast}$$.
+In a category with an epi-mono factorization system, we can factor any aspect $$a : X^S \to Q$$ into $$a = ie$$ with $$i$$ mono and $$e$$ epi. Since $$i$$ is mono, the $$a$$ means correspond to the $$e$$ means. So, in this case, we can always assume our aspects are epi.
 
 ## Perfect Means
 
