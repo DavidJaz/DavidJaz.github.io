@@ -2,7 +2,7 @@
 published: true
 ---
 The arithmetic mean is perhaps one of the oldest mathematical ideas, intimately tied to fairness in mutual endeavor. The arithmetic mean answers the question "what payout would we have gotten if we all got the same payout", or in other words, which $$A$$ makes
-$$$$p_1 + \cdots + p_n = A + \cdots + A$$$$$
+$$$$p_1 + \cdots + p_n = A + \cdots + A$$$$
 true? Most people are familiar with the arithmetic mean, and a few math nerds might know about the geometric or harmonic means. But what is a _mean_, in general?
 
 In general, we might think of a mean as a way of turning many things into one thing. But we shouldn't be led to prematurely coneptualize our ensembles as sets. In this post, I would like to work out some of the consequences of the following idea:
@@ -15,10 +15,10 @@ We can formalize the above idea as follows
 
 **Definition:** Let $$c : S \to P$$ be way to collapse the shape $$S$$ onto the shape $$P$$. Denote by $$\Delta_c : X^P \to X^S$$ the induced restriction map. Let $$a : X^S \to Q$$ be some aspect of $$S$$-shaped figures in $$X$$. 
 
-Given a figure $$f : S \to X$$ of shape $$S$$, an $$a$$*-mean* for $f$ is a figure $m : P \to X$ of shape $P$ which has the same aspect of $$f$$:
+Given a figure $$f : S \to X$$ of shape $$S$$, an $$a$$*-mean* for $$f$$ is a figure $$m : P \to X$$ of shape $$P$$ which has the same aspect of $$f$$:
 $$$$amc = af.$$$$
 
-A *mean function*, or just a mean for short, is an assignment $m : X^S \to X^P$ of a mean to each $S$-shaped figure, 
+A *mean function*, or just a mean for short, is an assignment $$m : X^S \to X^P$$ of a mean to each $$S$$-shaped figure, 
 ![diag1.png]({{site.baseurl}}/_posts/diag1.png)
 
 
@@ -37,7 +37,7 @@ So the arithmetic mean is a mean as we've defined it.
 $$$$a(b) = \int_B d(b)$$$$
 be the total mass of a body $$b : B \to X$$. Then a mean $m : X^S \to X$ for this assigns to each body the position of its center of mass.
 
-**Observation:** If $$m$$ is a mean for the aspect $a : X^S \to Q$, and $$t : Q \to Q'$$ is any transformation of that aspect, then $$m$$ is a mean for $$ta$$ as well. If this transformation is a monomorphism, then any $$ta$$-mean is a mean for $$a$$; if $$tac^{\ast}m = ta$$, then $$ac^{\ast}m = a$$.
+**Observation:** If $$m$$ is a mean for the aspect $$a : X^S \to Q$$, and $$t : Q \to Q'$$ is any transformation of that aspect, then $$m$$ is a mean for $$ta$$ as well. If this transformation is a monomorphism, then any $$ta$$-mean is a mean for $$a$$; if $$tac^{\ast}m = ta$$, then $$ac^{\ast}m = a$$.
 
 ## When do Means Exist?
 
@@ -52,7 +52,7 @@ and then we noted that multiplying by $$n$$ is an isomorphism of $$\mathbb{R}$$.
 *proof:* We prove these claims in turn.
 * Suppose that $$ac^{\ast}$$ is mono, and let $$m$$ and $$m'$$ be means. Then $$ac^{\ast}m = a = ac^{\ast}m'$$ and so $$m = m'$$ by monomorphicity.
 * Suppose that $$ac^{\ast}$$ is split epi by $$s$$. Then $$ac^{\ast}s = \textbf{id}$$, so that $$ac^{\ast}sa = a$$.
-* If $$ac^{\ast}$$ is iso by $$s$$, then $$sa$$ is a mean and since $ac^{\ast}$ is then mono, it is unique. Furthermore, $$sac^{\ast} = \textbf{id}$$ so that $sa$ splits $$c^{\ast}}$$.
+* If $$ac^{\ast}$$ is iso by $$s$$, then $$sa$$ is a mean and since $ac^{\ast}$ is then mono, it is unique. Furthermore, $$sac^{\ast} = \textbf{id}$$ so that $$sa$$ splits $$c^{\ast}$$.
 
 That last property is perhaps useful to single out as a desired characteristic of means. Lacking a better name, I'll call such a mean *normal*.
 
@@ -73,7 +73,7 @@ We can expand the criterion for perfect means a bit.
 
 Intuitively, the existence of a perfect mean should impose strong conditions on the relationship between $$S$$, $$P$$, and $$X$$; if $$X$$ allows a lot of movement, then this must mean that $$S$$ and $$P$$ are very similar, and if $$S$$ and $$P$$ are very different, this must mean $$X$$ is very rigid. We can prove a beginning result to this end.
 
-**Lemma:** Let $$S = 2$ and $$P = 1$$. Then $$X$$ admits a perfect mean if and only if it is subterminal.
+**Lemma:** Let $$S = 2$$ and $$P = 1$$. Then $$X$$ admits a perfect mean if and only if it is subterminal.
 *Proof:* We note that in this case, $$c^{\ast} = \Delta$$ is mono. Therefore, it has a section if and only if it is iso. But an object is subterminal if and only if it is isomorphic to its cartesian square.
 
 In other words, if you can perfectly average two things, then you had at most one thing.
