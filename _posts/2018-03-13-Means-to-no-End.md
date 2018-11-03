@@ -31,13 +31,19 @@ Usually, we are interested in means for which $$P= \ast$$ is a single point.
 * Let $$X = \mathbb{R}$$, $$S = n$$ a finite set. Then an $$S$$-shaped element of $$X$$ is a set of $$n$$ natural numbers. Let $$a : \mathbb{R}^n \to \mathbb{R}$$ be the sum, $$a(\lambda i. x_i) = \sum_{0 \leq i \leq n} x_i$$. 
 
 There is a unique mean $$m : \mathbb{R}^n \to \mathbb{R}$$, and it is defined by 
-$$$$m(\lambda i. x_i) + \cdots + m(\lambda i. x_i) = x_1 + \ldots + x_n$$$$
+
+>$$m(\lambda i. x_i) + \cdots + m(\lambda i. x_i) = x_1 + \ldots + x_n$$
+
 or, solving,
-$$$$m(\lambda i. x_i) = \frac{x_1 + \ldots + x_n}{n}.$$$$
+
+>$$m(\lambda i. x_i) = \frac{x_1 + \ldots + x_n}{n}.$$
+
 So the arithmetic mean is a mean as we've defined it.
 * If we change the aspect $a$ above to be the product, we get the geometric mean. If we change it to be the reciprocal of the sum of the reciprocals, we get the harmonic mean. 
 * If we work in a continuous category, and let $$S$$ be a compact subspace of $$\mathbb{R}^n$$ (a body) and $$X$$ be an ambient space. Suppose we have a mass distribution $$ d : X \to \mathbb{R}$$, and let 
-$$$$a(b) = \int_B d(b)$$$$
+
+>$$a(b) = \int_B d(b)$$
+
 be the total mass of a body $$b : B \to X$$. Then a mean $m : X^S \to X$ for this assigns to each body the position of its center of mass.
 
 **Observation:** If $$m$$ is a mean for the aspect $$a : X^S \to Q$$, and $$t : Q \to Q'$$ is any transformation of that aspect, then $$m$$ is a mean for $$ta$$ as well. If this transformation is a monomorphism, then any $$ta$$-mean is a mean for $$a$$; if $$tac^{\ast}m = ta$$, then $$ac^{\ast}m = a$$.
@@ -45,7 +51,9 @@ be the total mass of a body $$b : B \to X$$. Then a mean $m : X^S \to X$ for thi
 ## When do Means Exist?
 
 Let's look a bit more closely about the calculation of the arithmetic mean. We noted that
-$$$$m(\lambda i. x_i) + \cdots + m(\lambda i. x_i) = n \cdot m(\lambda i. x_i)$$$$
+
+>$$m(\lambda i. x_i) + \cdots + m(\lambda i. x_i) = n \cdot m(\lambda i. x_i)$$
+
 and then we noted that multiplying by $$n$$ is an isomorphism of $$\mathbb{R}$$. The mean was then given by summing up (taking the aspect of the figure) and then multiplying by the inverse of $$n$$. We can break this observation up into three parts.
 
 **Lemma:** If
