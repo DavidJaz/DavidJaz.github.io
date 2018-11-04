@@ -59,7 +59,7 @@ and then we noted that multiplying by $$n$$ is an isomorphism of $$\mathbb{R}$$.
 **Lemma:** If
 * $$ac^{\ast}$$ is a monomorphism, then means are unique,
 * $$ac^{\ast}$$ is a split epimorphism by $$s$$, then $$sa$$ is a mean, and
-* $$ac^{\ast}$$ is an isomorphism by $$s$$, then $$sa$ is the unique mean and it splits $$c^{\ast}$$.
+* $$ac^{\ast}$$ is an isomorphism by $$s$$, then $$sa$$ is the unique mean and it splits $$c^{\ast}$$.
 *proof:* We prove these claims in turn.
 * Suppose that $$ac^{\ast}$$ is mono, and let $$m$$ and $$m'$$ be means. Then $$ac^{\ast}m = a = ac^{\ast}m'$$ and so $$m = m'$$ by monomorphicity.
 * Suppose that $$ac^{\ast}$$ is split epi by $$s$$. Then $$ac^{\ast}s = \textbf{id}$$, so that $$ac^{\ast}sa = a$$.
