@@ -39,7 +39,7 @@ or, solving,
 >$$m(\lambda i. x_i) = \frac{x_1 + \ldots + x_n}{n}.$$
 
 So the arithmetic mean is a mean as we've defined it.
-* If we change the aspect $a$ above to be the product, we get the geometric mean. If we change it to be the reciprocal of the sum of the reciprocals, we get the harmonic mean. 
+* If we change the aspect $$a$$ above to be the product, we get the geometric mean. If we change it to be the reciprocal of the sum of the reciprocals, we get the harmonic mean. 
 * If we work in a continuous category, and let $$S$$ be a compact subspace of $$\mathbb{R}^n$$ (a body) and $$X$$ be an ambient space. Suppose we have a mass distribution $$ d : X \to \mathbb{R}$$, and let 
 
 >$$a(b) = \int_B d(b)$$
