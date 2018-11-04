@@ -13,6 +13,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
+D. Spivak, \_\_\_, B. Fong, _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420
+
 ## Publications
 
 ### Math
