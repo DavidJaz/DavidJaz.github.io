@@ -60,6 +60,7 @@ and then we noted that multiplying by $$n$$ is an isomorphism of $$\mathbb{R}$$.
 * $$ac^{\ast}$$ is a monomorphism, then means are unique,
 * $$ac^{\ast}$$ is a split epimorphism by $$s$$, then $$sa$$ is a mean, and
 * $$ac^{\ast}$$ is an isomorphism by $$s$$, then $$sa$$ is the unique mean and it splits $$c^{\ast}$$.
+
 *proof:* We prove these claims in turn.
 * Suppose that $$ac^{\ast}$$ is mono, and let $$m$$ and $$m'$$ be means. Then $$ac^{\ast}m = a = ac^{\ast}m'$$ and so $$m = m'$$ by monomorphicity.
 * Suppose that $$ac^{\ast}$$ is split epi by $$s$$. Then $$ac^{\ast}s = \textbf{id}$$, so that $$ac^{\ast}sa = a$$.
@@ -80,11 +81,13 @@ A perfect mean is a mean which loses no information. In other words, a perfect m
 We can expand the criterion for perfect means a bit.
 
 **Lemma:** If $$a$$ is mono and $$m$$ is a mean, then $$m$$ is a perfect mean. If $$m$$ is also normal, then $$m$$ is an inverse of $$c^{\ast}$$.
+
 *proof:* If $$m$$ is a mean, then $$ac^{\ast}m = a$$, so if $$a$$ is mono, then $$c^{\ast}m = \textbf{id}$$. For $$m$$ to be normal is precisely $$mc^{\ast} = \textbf{id}$$.
 
 Intuitively, the existence of a perfect mean should impose strong conditions on the relationship between $$S$$, $$P$$, and $$X$$; if $$X$$ allows a lot of movement, then this must mean that $$S$$ and $$P$$ are very similar, and if $$S$$ and $$P$$ are very different, this must mean $$X$$ is very rigid. We can prove a beginning result to this end.
 
 **Lemma:** Let $$S = 2$$ and $$P = 1$$. Then $$X$$ admits a perfect mean if and only if it is subterminal.
+
 *Proof:* We note that in this case, $$c^{\ast} = \Delta$$ is mono. Therefore, it has a section if and only if it is iso. But an object is subterminal if and only if it is isomorphic to its cartesian square.
 
 In other words, if you can perfectly average two things, then you had at most one thing.
