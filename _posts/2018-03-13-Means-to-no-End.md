@@ -44,7 +44,7 @@ So the arithmetic mean is a mean as we've defined it.
 
 >$$a(b) = \int_B d(b)$$
 
-be the total mass of a body $$b : B \to X$$. Then a mean $m : X^S \to X$ for this assigns to each body the position of its center of mass.
+be the total mass of a body $$b : B \to X$$. Then a mean $$m : X^S \to X$$ for this assigns to each body the position of its center of mass.
 
 **Observation:** If $$m$$ is a mean for the aspect $$a : X^S \to Q$$, and $$t : Q \to Q'$$ is any transformation of that aspect, then $$m$$ is a mean for $$ta$$ as well. If this transformation is a monomorphism, then any $$ta$$-mean is a mean for $$a$$; if $$tac^{\ast}m = ta$$, then $$ac^{\ast}m = a$$.
 
