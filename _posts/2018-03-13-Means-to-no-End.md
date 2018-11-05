@@ -64,7 +64,7 @@ and then we noted that multiplying by $$n$$ is an isomorphism of $$\mathbb{R}$$.
 *proof:* We prove these claims in turn.
 * Suppose that $$ac^{\ast}$$ is mono, and let $$m$$ and $$m'$$ be means. Then $$ac^{\ast}m = a = ac^{\ast}m'$$ and so $$m = m'$$ by monomorphicity.
 * Suppose that $$ac^{\ast}$$ is split epi by $$s$$. Then $$ac^{\ast}s = \textbf{id}$$, so that $$ac^{\ast}sa = a$$.
-* If $$ac^{\ast}$$ is iso by $$s$$, then $$sa$$ is a mean and since $ac^{\ast}$ is then mono, it is unique. Furthermore, $$sac^{\ast} = \textbf{id}$$ so that $$sa$$ splits $$c^{\ast}$$.
+* If $$ac^{\ast}$$ is iso by $$s$$, then $$sa$$ is a mean and since $$ac^{\ast}$$ is then mono, it is unique. Furthermore, $$sac^{\ast} = \textbf{id}$$ so that $$sa$$ splits $$c^{\ast}$$.
 
 That last property is perhaps useful to single out as a desired characteristic of means. Lacking a better name, I'll call such a mean *normal*.
 
