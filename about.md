@@ -26,6 +26,9 @@ _Nothing yet._
 P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Talks and Slides
+_What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
+[\[slides\]](../Talks/What_is_a_Thing.pdf)
+
 _String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](../Talks/DJaz_CT17_Strings.pdf) [\[abstract\]](../Talks/myers_d.pdf)
 
 _Weighted (Co)Limits_, at [CT 2017](http://www.mat.uc.pt/~ct2017/) with the [Kan Extension Seminar](http://www.math.jhu.edu/~eriehl/kanII/), 2017 [\[slides\]](../Talks/CT2017_Kan_DJM.pdf)
