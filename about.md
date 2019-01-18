@@ -11,7 +11,7 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
-D. Spivak, \_\_\_, B. Fong, _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
+[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, [B. Fong](http://brendanfong.com/), _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
@@ -23,7 +23,11 @@ _Nothing yet._
 
 ### Other
 
-P. Thibodeau, \_\_\_ , S. Flusberg, _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
+[P. Thibodeau](https://sites.google.com/a/oberlin.edu/thibodeau/home), \_\_\_ , [S. Flusberg](http://www.stephenflusberg.com/), _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
+
+## Notes
+
+_Notes on Homology in Characteristic One_, from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
 _What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
