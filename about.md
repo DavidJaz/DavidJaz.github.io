@@ -27,7 +27,9 @@ _Nothing yet._
 
 ## Notes
 
-_Notes on Homology in Characteristic One_, from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
+[_Notes on Homology in Characteristic One_](
+        DavidJaz.github.io/Papers/Connes_Consani(1).pdf
+      ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
 _What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
