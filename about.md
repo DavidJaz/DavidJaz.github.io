@@ -7,7 +7,7 @@ published: true
 
 I'm a second year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
 
-I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory and homotopy type theory. 
+I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. 
 
 ## Preprints
 
@@ -32,6 +32,10 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_Degrees, Dimensions, and Crispness_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides-II.pdf)
+
+_Logical Topology and Axiomatic Cohesion_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides.pdf)
+
 _What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
 [\[slides\]](../Talks/What_is_a_Thing.pdf)
 
