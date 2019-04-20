@@ -32,9 +32,9 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
-_Degrees, Dimensions, and Crispness_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides-II.pdf)
+_Degrees, Dimensions, and Crispness_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides-II.pdf) [\[video\]](https://www.youtube.com/watch?v=VNp-f_9MnVk)
 
-_Logical Topology and Axiomatic Cohesion_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides.pdf)
+_Logical Topology and Axiomatic Cohesion_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides.pdf) [\[video\]](https://www.youtube.com/watch?v=GbzQMsr3Jf4)
 
 _What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
 [\[slides\]](../Talks/What_is_a_Thing.pdf)
