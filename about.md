@@ -32,6 +32,8 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_How do you identify one thing with another_ at [Cornell Topology Fesitval](http://pi.math.cornell.edu/~festival/), 2019, [\[slides\]](../Talks/DJM_TopFestHandout.pdf)
+
 _Degrees, Dimensions, and Crispness_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides-II.pdf) [\[video\]](https://www.youtube.com/watch?v=VNp-f_9MnVk)
 
 _Logical Topology and Axiomatic Cohesion_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides.pdf) [\[video\]](https://www.youtube.com/watch?v=GbzQMsr3Jf4)
