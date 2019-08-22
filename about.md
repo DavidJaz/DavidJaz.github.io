@@ -11,6 +11,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
+\_\_\_, _[Good Fibrations through the Modal Prism](https://arxiv.org/abs/1908.08034)_, arXiv:1908.08034, 2019
+
 [D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, [B. Fong](http://brendanfong.com/), _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
