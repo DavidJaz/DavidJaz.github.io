@@ -54,6 +54,8 @@ _String Diagrams, Categories, and Enrichment_, for Honors thesis requirement at 
 _Thinking Recursively, Rethinking Corecursively_, for Oberlin Philosophy department, 2015 [\[slides\]](../Talks/CoRecursion.pdf) [\[abstract\]](../Talks/Corecursion%20Flyer.pdf) 
 
 ## Blog Posts
+_[Graphical Regular Logic](https://golem.ph.utexas.edu/category/2019/08/graphical_regular_logic.html)_, with Sophie Libkind, on the [_n_-category Café](https://golem.ph.utexas.edu/category/)
+
 _[A Graphical Calculus for Proarrow Equipments](https://golem.ph.utexas.edu/category/2017/08/a_graphical_calculus_for_proar.html)_, on the [_n_-Category Café](https://golem.ph.utexas.edu/category/)
 
 
