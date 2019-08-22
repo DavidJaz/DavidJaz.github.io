@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I'm a second year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
+I'm a third year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. 
 
