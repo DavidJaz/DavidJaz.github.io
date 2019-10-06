@@ -34,6 +34,8 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_Higher Groups in Homotopy Type Theory_, for my Oral Exam at JHU, 2019, [\[slides\]](../Talks/DJM_OralExam.pdf)
+
 _Good Fibrations through the Modal Prism_ at [HoTT 2019](https://hott.github.io/HoTT-2019/), 2019, [\[slides\]](../Talks/DJM_HoTT2019.pdf)
 
 _How do you identify one thing with another_ at [Cornell Topology Fesitval](http://pi.math.cornell.edu/~festival/), 2019, [\[slides\]](../Talks/DJM_TopFestHandout.pdf)
