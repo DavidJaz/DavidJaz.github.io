@@ -34,18 +34,30 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_At a stalk, in general, and other ways of being true_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2019, [\[notes\]](http://www.math.jhu.edu/~eriehl/ct/DJM-LectureNotes.pdf)
+
+_A sheaf of rings is a ring of sheaves, and other tales from algebra on the inside_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2019, [\[notes\]](http://www.math.jhu.edu/~eriehl/ct/DJM-LectureNotes.pdf)
+
 _Higher Groups in Homotopy Type Theory_, for my Oral Exam at JHU, 2019, [\[slides\]](../Talks/DJM_OralExam.pdf)
 
 _Good Fibrations through the Modal Prism_ at [HoTT 2019](https://hott.github.io/HoTT-2019/), 2019, [\[slides\]](../Talks/DJM_HoTT2019.pdf)
 
 _How do you identify one thing with another_ at [Cornell Topology Fesitval](http://pi.math.cornell.edu/~festival/), 2019, [\[slides\]](../Talks/DJM_TopFestHandout.pdf)
 
+_generatingfunctorology_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2019
+
 _Degrees, Dimensions, and Crispness_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides-II.pdf) [\[video\]](https://www.youtube.com/watch?v=VNp-f_9MnVk)
 
 _Logical Topology and Axiomatic Cohesion_, at [Geometry in Modal HoTT](http://www.andrew.cmu.edu/user/fwellen/modal-workshop.html), 2019 [\[slides\]](../Talks/MHOTT-myers-slides.pdf) [\[video\]](https://www.youtube.com/watch?v=GbzQMsr3Jf4)
 
+_The logic is coming from inside the category_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2018
+
+_Towards A¹ Homotopy Type Theory_, at the [CMU HoTT Seminar](https://cmuhott.wordpress.com/hott-seminar/), 2018
+
 _What is a Thing?_, at [MIT Categories Seminar](http://brendanfong.com/seminar.html), 2018
 [\[slides\]](../Talks/What_is_a_Thing.pdf)
+
+_The Yoga of Four Operations_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2018
 
 _String Diagrams for (Virtual) Proarrow Equipments_, at [CT 2017](http://www.mat.uc.pt/~ct2017/), 2017 [\[slides\]](../Talks/DJaz_CT17_Strings.pdf) [\[abstract\]](../Talks/myers_d.pdf)
 
