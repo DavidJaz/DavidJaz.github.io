@@ -34,6 +34,8 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_Open Dynamical Systems, Trajectories, and Hierarchical Planning_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[video\]](https://www.youtube.com/watch?v=3FxeY5DbPn0)
+
 _A General Definition of Open Dynamical System_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[video\]](https://youtu.be/8T-Km3taNko)
 
 _At a stalk, in general, and other ways of being true_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2019, [\[notes\]](http://www.math.jhu.edu/~eriehl/ct/DJM-LectureNotes.pdf)
