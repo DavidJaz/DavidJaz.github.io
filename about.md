@@ -15,6 +15,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 [D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, [B. Fong](http://brendanfong.com/), _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
 
+\_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
+
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
 ## Publications
