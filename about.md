@@ -11,6 +11,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
+[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, _[Dirichlet Polynomials Form a Topos](https://arxiv.org/abs/2003.04827), arXiv:2003.04827, 2020
+
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
 
 \_\_\_, _[Good Fibrations through the Modal Prism](https://arxiv.org/abs/1908.08034)_, arXiv:1908.08034, 2019
