@@ -11,7 +11,7 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
-[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, _[Dirichlet Polynomials Form a Topos](https://arxiv.org/abs/2003.04827)_, arXiv:2003.04827, 2020
+\_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://arxiv.org/abs/2004.04183)_, arXiv:2004.04183, 2020
 
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
 
@@ -32,6 +32,8 @@ _Nothing yet._
 [P. Thibodeau](https://sites.google.com/a/oberlin.edu/thibodeau/home), \_\_\_ , [S. Flusberg](http://www.stephenflusberg.com/), _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Notes
+
+[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, _[Dirichlet Polynomials Form a Topos](https://arxiv.org/abs/2003.04827)_, arXiv:2003.04827, 2020
 
 [_Notes on Homology in Characteristic One_](
         ../DavidJaz.github.io/Papers/Connes_Consani(1).pdf
