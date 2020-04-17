@@ -40,7 +40,7 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
-_Homotopy Type Theory for doing Category Theory_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/DJM_HoTTMIT2020.pdf)
+_Homotopy Type Theory for doing Category Theory_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/DJM_HoTTMIT2020.pdf) [\[video\]](https://youtu.be/nalC40POVLU)
 
 _Open Dynamical Systems, Trajectories, and Hierarchical Planning_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[video\]](https://www.youtube.com/watch?v=3FxeY5DbPn0)
 
