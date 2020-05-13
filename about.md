@@ -11,6 +11,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
+\_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
+
 \_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://arxiv.org/abs/2004.04183)_, arXiv:2004.04183, 2020
 
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
