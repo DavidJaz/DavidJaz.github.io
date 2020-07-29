@@ -5,9 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I'm a third year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
+I'm a fourth year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/). 
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. 
+
+[I teach and TA. Follow this link for more info.](davidjaz.com/teaching)
 
 ## Preprints
 
@@ -42,6 +44,10 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_Double categories of Open Dynamical Systems_, at [ACT 2020](https://act2020.mit.edu/), 2020, [\[video\]](https://youtu.be/f9fjf9lo2_M) [\[slides\]](../Talks/DJM_Dyn2020.pdf)
+
+_Behavioral Merelogy: a modal logic for passing constraints_, at [ACT 2020](https://act2020.mit.edu/), 2020, [\[video\]](https://youtu.be/vERL6UWgcJs) [\[slides\]](../Talks/DJM_BMereo2020.pdf)
+
 _Higher Schreier Theory_, at [HoTTEST 2020](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_conference_2020.html), 2020, [\[slides\]](../Talks/DJM_HoTT2020.pdf)
 
 _Double Categories of Open Dynamical Systems_, at the Coimbra Algebra, Logic, and Topology seminar, 2020, [\[slides\]](../Talks/DJM_Coimbra2020.pdf)
