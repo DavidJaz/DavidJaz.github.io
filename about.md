@@ -9,7 +9,7 @@ I'm a fourth year graduate student at Johns Hopkins University. My advisor is [E
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. 
 
-[I teach and TA. Follow this link for more info.](davidjaz.com/teaching)
+[I teach and TA. Follow this link for more info.](../teaching)
 
 ## Preprints
 
@@ -48,7 +48,7 @@ _Double categories of Open Dynamical Systems_, at [ACT 2020](https://act2020.mit
 
 _Behavioral Merelogy: a modal logic for passing constraints_, at [ACT 2020](https://act2020.mit.edu/), 2020, [\[video\]](https://youtu.be/vERL6UWgcJs) [\[slides\]](../Talks/DJM_BMereo2020.pdf)
 
-_Higher Schreier Theory_, at [HoTTEST 2020](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_conference_2020.html), 2020, [\[slides\]](../Talks/DJM_HoTT2020.pdf)
+_Higher Schreier Theory_, at [HoTTEST 2020](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_conference_2020.html), 2020, [\[video\]](https://youtu.be/I7f2iJB52vo) [\[slides\]](../Talks/DJM_HoTT2020.pdf)
 
 _Double Categories of Open Dynamical Systems_, at the Coimbra Algebra, Logic, and Topology seminar, 2020, [\[slides\]](../Talks/DJM_Coimbra2020.pdf)
 
