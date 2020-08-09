@@ -9,7 +9,7 @@ I'm a fourth year graduate student at Johns Hopkins University. My advisor is [E
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. 
 
-[I teach and TA. Follow this link for more info.](../teaching)
+[I teach and TA. Follow this link for more info.](../teaching/overview)
 
 ## Preprints
 
