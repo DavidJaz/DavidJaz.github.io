@@ -46,6 +46,8 @@ _Nothing yet._
 ## Talks and Slides
 _Paradigms of Composition_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
 
+_Getting equipped for formal category theory_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2020
+
 _Double categories of Open Dynamical Systems_, at [ACT 2020](https://act2020.mit.edu/), 2020, [\[video\]](https://youtu.be/f9fjf9lo2_M) [\[slides\]](../Talks/DJM_Dyn2020.pdf)
 
 _Behavioral Merelogy: a modal logic for passing constraints_, at [ACT 2020](https://act2020.mit.edu/), 2020, [\[video\]](https://youtu.be/vERL6UWgcJs) [\[slides\]](../Talks/DJM_BMereo2020.pdf)
