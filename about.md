@@ -36,6 +36,7 @@ _Nothing yet._
 [P. Thibodeau](https://sites.google.com/a/oberlin.edu/thibodeau/home), \_\_\_ , [S. Flusberg](http://www.stephenflusberg.com/), _[Similarity-Based Reasoning is Shaped by Recent Learning Experience](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2016_thibodeau_myers_flusberg.pdf)_, in _Proceedings of the 38th Annual Conference of the Cognitive Science Society_. Austin, TX: Cognitive Science Society. 2016
 
 ## Notes
+\_\_\_, _[Cartesian Factorization Systems and Grothendieck Fibrations](https://arxiv.org/abs/2006.14022)_, arXiv:2006:14022, 2020
 
 [D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, _[Dirichlet Polynomials Form a Topos](https://arxiv.org/abs/2003.04827)_, arXiv:2003.04827, 2020
 
