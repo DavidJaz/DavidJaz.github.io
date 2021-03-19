@@ -46,7 +46,7 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
-_Modal Fracture of Higher Groups_, at the [CMU-HoTT Seminar](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html), 2020, [\[slides\]](../Talks/CMU_March_2021.pdf)
+_Modal Fracture of Higher Groups_, at the [CMU-HoTT Seminar](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html), 2021, [\[slides\]](../Talks/CMU_March_2021.pdf)
 
 _Paradigms of Composition_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
 
