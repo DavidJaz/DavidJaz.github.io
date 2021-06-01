@@ -52,9 +52,9 @@ _Modal Fibrations in Homotopy Type Theory_, at the [EPFL Topology Seminar](https
 
 _Modal Fracture of Higher Groups_, at the [CMU-HoTT Seminar](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html), 2021, [\[slides\]](../Talks/CMU_March_2021.pdf)
 
-_Paradigms of Composition_, at the [MIT Category Seminar](https://logic.ucalgary.ca/), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
+_Paradigms of Composition_, at the [MIT Category Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
 
-_Paradigms of Composition_, at the [Calgary Peripatetic Seminar](http://brendanfong.com/seminar.html), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
+_Paradigms of Composition_, at the [Calgary Peripatetic Seminar](https://logic.ucalgary.ca/), 2020, [\[slides\]](../Talks/Paradigms of Composition Oct2020.pdf)
 
 _Getting equipped for formal category theory_, at the [Johns Hopkins Category Seminar](http://www.math.jhu.edu/~eriehl/ct/), 2020
 
