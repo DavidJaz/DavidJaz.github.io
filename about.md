@@ -14,6 +14,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ## Preprints
 
+\_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, arXiv:2106.15390 , 2021
+
 \_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
 
 \_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://arxiv.org/abs/2004.04183)_, arXiv:2004.04183, 2020
