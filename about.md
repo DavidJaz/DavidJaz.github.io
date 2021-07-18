@@ -48,6 +48,8 @@ _Nothing yet._
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
 ## Talks and Slides
+_Modal Fracture of Higher Groups_, at [HoTT/UF 2021](https://hott-uf.github.io/2021/), [\[slides\]](../Talks/HoTT-UF-2021.pdf)
+
 _Modal Fibrations in Homotopy Type Theory_, at University of Augsburg, 2021, [\[slides\]](../Talks/EPFL_April_2021.pdf)
 
 _Modal Fibrations in Homotopy Type Theory_, at the [EPFL Topology Seminar](https://www.epfl.ch/labs/hessbellwald-lab/epfl-topology-seminar-spring-2021/), 2021, [\[slides\]](../Talks/EPFL_April_2021.pdf)
