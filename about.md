@@ -32,7 +32,7 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 ### Math
 
-E. Hanna, C. Lynch, \_\_\_, C. Richardson, _[Finding Intruder Knowledge with Cap Matching], in Guttman J., Landwehr C., Meseguer J., Pavlovic D. (eds) Foundations of Security, Protocols, and Equational Reasoning. Lecture Notes in Computer Science, vol 11565. Springer, Cham. https://doi.org/10.1007/978-3-030-19052-1_5
+E. Hanna, C. Lynch, \_\_\_, C. Richardson, _[Finding Intruder Knowledge with Cap Matching](https://doi.org/10.1007/978-3-030-19052-1_5)_, in Guttman J., Landwehr C., Meseguer J., Pavlovic D. (eds) Foundations of Security, Protocols, and Equational Reasoning. Lecture Notes in Computer Science, vol 11565. Springer, Cham. 
 
 ### Other
 
