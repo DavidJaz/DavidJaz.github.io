@@ -16,21 +16,21 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 \_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, arXiv:2106.15390 , 2021
 
-\_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
-
 \_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://arxiv.org/abs/2004.04183)_, arXiv:2004.04183, 2020
 
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
 
 \_\_\_, _[Good Fibrations through the Modal Prism](https://arxiv.org/abs/1908.08034)_, arXiv:1908.08034, 2019
 
-[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, [B. Fong](http://brendanfong.com/), _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
-
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
 ## Publications
 
 ### Math
+
+\_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
+
+[D. Spivak](http://math.mit.edu/~dspivak/), \_\_\_, [B. Fong](http://brendanfong.com/), _[Behavioral Mereology](https://arxiv.org/abs/1811.00420)_, arXiv:1811.00420, 2018
 
 E. Hanna, C. Lynch, \_\_\_, C. Richardson, _[Finding Intruder Knowledge with Cap Matching](https://doi.org/10.1007/978-3-030-19052-1_5)_, in Guttman J., Landwehr C., Meseguer J., Pavlovic D. (eds) Foundations of Security, Protocols, and Equational Reasoning. Lecture Notes in Computer Science, vol 11565. Springer, Cham. 
 
