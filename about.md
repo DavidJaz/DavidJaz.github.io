@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 
-I'm a fifth year graduate student at Johns Hopkins University. My advisor is [Emily Riehl](http://www.math.jhu.edu/~eriehl/).
+I'm a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-quantum-and-topological-systems.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins.
 ![It's me!]({{site.baseurl}}/../images/David-cropped-scaled.jpg#center "David Jaz")
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
