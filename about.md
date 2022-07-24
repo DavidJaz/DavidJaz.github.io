@@ -27,6 +27,7 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 ## Publications
 
 ### Math
+
 \_\_\_, _[Good Fibrations through the Modal Prism](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/Myers)_, in Higher Structures (2022), arXiv:1908.08034, 2019
 
 \_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
