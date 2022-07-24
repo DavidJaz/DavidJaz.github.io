@@ -10,8 +10,6 @@ I'm a post-doc working at the [Center for Topological and Quantum Systems](https
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
 
-[I teach and TA. Follow this link for more info.](../teaching/overview)
-
 ## Preprints
 
 \_\_\_, _[Orbifolds as Microlinear Types in Synthetic Differential Cohesive HoTT](https://arxiv.org/abs/2205.15887)_, arXiv:2205.15887, 2022
@@ -22,13 +20,14 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
 
-\_\_\_, _[Good Fibrations through the Modal Prism](https://arxiv.org/abs/1908.08034)_, arXiv:1908.08034, 2019
+
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
 ## Publications
 
 ### Math
+\_\_\_, _[Good Fibrations through the Modal Prism](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/Myers)_, in Higher Structures (2022), arXiv:1908.08034, 2019
 
 \_\_\_, _[Double Categories of Open Dynamical Systems (Extended Abstract)](https://arxiv.org/abs/2005.05956)_, arXiv:2005.05956, 2020
 
