@@ -14,6 +14,8 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 \_\_\_, [Hisham Sati](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hisham-sati.html), [Urs Schreiber](https://ncatlab.org/nlab/show/Urs+Schreiber) _[Topological Quantum Gates in Homotopy Type Theory](https://arxiv.org/abs/2303.02382)_, arXiv:2303.02382, 2023
 
+\_\_\_, [Mitchell Riley](https://mvr.hosting.nyu.edu/), _[Commuting Cohesions](https://arxiv.org/abs/2301.13780)_, arXiv:2301.13780, 2023
+
 \_\_\_, _[Orbifolds as Microlinear Types in Synthetic Differential Cohesive HoTT](https://arxiv.org/abs/2205.15887)_, arXiv:2205.15887, 2022
 
 \_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, arXiv:2106.15390, 2021
