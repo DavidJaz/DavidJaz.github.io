@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 
-I'm a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name at gmail.
+I'm a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name (David Jaz Myers) at gmail.
 ![It's me!]({{site.baseurl}}/../images/david-2023-picture-resized.jpg#center "David Jaz")
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
@@ -20,17 +20,15 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 
 \_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, arXiv:2106.15390, 2021
 
-\_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://arxiv.org/abs/2004.04183)_, arXiv:2004.04183, 2020
-
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
-
-
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
 
 ## Publications
 
 ### Math
+
+\_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://gradmath.org/2024/01/22/dirichlet-polynomials-form-a-topos/)_, in The Graduate Journal of Mathematics (2023), arXiv:2004.04183, 2020
 
 \_\_\_, _[Good Fibrations through the Modal Prism](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/Myers)_, in Higher Structures (2022), arXiv:1908.08034, 2019
 
@@ -53,7 +51,20 @@ E. Hanna, C. Lynch, \_\_\_, C. Richardson, _[Finding Intruder Knowledge with Cap
         ../DavidJaz.github.io/Papers/Connes_Consani(1).pdf
       ), from a course given by [Katia Consani](http://www.math.jhu.edu/~kc/) (and with material from [Emily Riehl](http://www.math.jhu.edu/~eriehl/)) in 2017.
 
-## Talks and Slides
+## Some Talks and Slides
+
+_Tangent Bundles of Spheres_, at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 2023, [\[slides\]](../Talks/DJM-Hottest-Dec-2023.pdf) [\[video\]](https://www.youtube.com/watch?v=9T9B9XBjVpk)
+
+_Topological Quantum Gates in Homotopy Type Theory_, at [ACT2023](https://act2023.github.io/), 2023, [\[abstract\]](https://act2023.github.io/papers/paper22.pdf) [\[slides\]](../Talks/TQC-in-HoTT-ACT2023.pdf)
+
+_Para Construction as a Wreath Product_, at [CT2023](https://sites.uclouvain.be/ct2023/), 2023, [\[slides\]](../Talks/CT2023_Para_as_Wreath_Product.pdf)
+
+_Doctrines of Dynamical Systems_, at [JMM 2023](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program.html), 2023, [\[slides\]](../Talks/DJM-JMM-2023.pdf)
+
+_Orbifolds as Microlinear Spaces_, [\[slides\]](../Talks/DJM-HoTT-2023-Orbifolds.pdf)
+
+_Three Realisms and the Idea of Sheaves_, at FRA Workshop, 2021, [\[slides\]](../Talks/FRA_2021_David_Jaz_Myers.pdf) [\[video\]](https://youtu.be/RPuWHN0BTio?si=j1bNLRK5ewt-LX7R)
+
 _Modal Fracture of Higher Groups_, at [HoTT/UF 2021](https://hott-uf.github.io/2021/), [\[slides\]](../Talks/HoTT-UF-2021.pdf)
 
 _Modal Fibrations in Homotopy Type Theory_, at University of Augsburg, 2021, [\[slides\]](../Talks/EPFL_April_2021.pdf)
@@ -127,10 +138,8 @@ _[Enrichment and its Limits](https://golem.ph.utexas.edu/category/2017/04/enrich
 
 ## History 
 
-2017 - _now_: Johns Hopkins University
+2022 - _now_: Postdoc at New York University Abu Dhabi
 
-Spring 2015: Central European University
-
-Fall 2015: Budapest Semesters in Mathematics
+2017 - 2022: PhD at Johns Hopkins University
 
 2012 - 2017: Oberlin College
