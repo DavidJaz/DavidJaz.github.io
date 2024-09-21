@@ -5,14 +5,14 @@ permalink: /
 published: true
 ---
 
-I'm a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name (David Jaz Myers) at gmail.
-![It's me!]({{site.baseurl}}/../images/david-2023-picture-resized.jpg#center "David Jaz")
+I'm a research scientist at the [Topos Institute]() in Oxford, UK. My work focuses on categorical systems theory and compositional, conceptually, and collaborative scientific modelling.
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
 
-## Preprints
+I was previous a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name (David Jaz Myers) at gmail.
+![It's me!]({{site.baseurl}}/../images/david-2023-picture-resized.jpg#center "David Jaz")
 
-\_\_\_, [Hisham Sati](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hisham-sati.html), [Urs Schreiber](https://ncatlab.org/nlab/show/Urs+Schreiber) _[Topological Quantum Gates in Homotopy Type Theory](https://arxiv.org/abs/2303.02382)_, arXiv:2303.02382, 2023
+## Preprints
 
 \_\_\_, [Mitchell Riley](https://mvr.hosting.nyu.edu/), _[Commuting Cohesions](https://arxiv.org/abs/2301.13780)_, arXiv:2301.13780, 2023
 
@@ -27,6 +27,10 @@ I'm generally interested in what it means to be a _thing_, but particularly inte
 ## Publications
 
 ### Math
+
+\_\_\_, Zyad Hassan, _Higher Schreier Theory in Cubical Agda_, to appear in the Journal of Symbolic Logic (2024)
+
+\_\_\_, [Hisham Sati](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hisham-sati.html), [Urs Schreiber](https://ncatlab.org/nlab/show/Urs+Schreiber) _[Topological Quantum Gates in Homotopy Type Theory](https://arxiv.org/abs/2303.02382)_, in Communications in Mathematical Physics, arXiv:2303.02382, 2023
 
 \_\_\_, [D. Spivak](http://math.mit.edu/~dspivak/), _[Dirichlet Functors are Contravariant Polynomial Functors](https://gradmath.org/2024/01/22/dirichlet-polynomials-form-a-topos/)_, in The Graduate Journal of Mathematics (2023), arXiv:2004.04183, 2020
 
