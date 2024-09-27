@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 
-I'm a research scientist at the [Topos Institute]() in Oxford, UK. My work focuses on categorical systems theory and compositional, conceptually, and collaborative scientific modelling.
+I'm a research scientist at the [Topos Institute]() in Oxford, UK. My work focuses on categorical systems theory and compositional, conceptual, and collaborative scientific modelling.
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
 
