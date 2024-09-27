@@ -9,7 +9,7 @@ I'm a research scientist at the [Topos Institute]() in Oxford, UK. My work focus
 
 I'm generally interested in what it means to be a _thing_, but particularly interested in (higher) category theory, homotopy type theory, and cohesion. I have been writing a [book on categorical systems theory](../Papers/DynamicalBook.pdf) which is currently in its 0th draft --- use at your peril (but enjoy)!
 
-I was previous a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name (David Jaz Myers) at gmail.
+I was previously a post-doc working at the [Center for Topological and Quantum Systems](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html) at NYU Abu Dhabi. I did my PhD with [Emily Riehl](http://www.math.jhu.edu/~eriehl/) at Johns Hopkins. My email is my full name (David Jaz Myers) at gmail.
 ![It's me!]({{site.baseurl}}/../images/david-2023-picture-resized.jpg#center "David Jaz")
 
 ## Preprints
