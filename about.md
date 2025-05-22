@@ -19,8 +19,6 @@ I was previously a post-doc working at the [Center for Topological and Quantum S
 
 \_\_\_, _[Orbifolds as Microlinear Types in Synthetic Differential Cohesive HoTT](https://arxiv.org/abs/2205.15887)_, arXiv:2205.15887, 2022
 
-\_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, arXiv:2106.15390, 2021
-
 \_\_\_, _[A Yoneda-Style Embedding for Virtual Equipments](https://arxiv.org/abs/2003.02124)_, arXiv:2003.02124, 2020
 
 \_\_\_ , _[String Diagrams for Double Categories and Proarrow Equipments](https://arxiv.org/abs/1612.02762)_, arXiv:1612.02762, 2016
@@ -28,6 +26,8 @@ I was previously a post-doc working at the [Center for Topological and Quantum S
 ## Publications
 
 ### Math
+
+\_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, Differential Geometry and its Applications, 2024, arXiv:2106.15390, 2021
 
 \_\_\_, Zyad Hassan, _Higher Schreier Theory in Cubical Agda_, to appear in the Journal of Symbolic Logic (2024)
 
