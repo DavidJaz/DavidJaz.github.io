@@ -15,6 +15,8 @@ I was previously a post-doc working at the [Center for Topological and Quantum S
 
 ## Preprints
 
+[Sophie Libkind](https://slibkind.github.io), \_\_\_, _[Towards a double operadic theory of systems](https://arxiv.org/abs/2505.18329)_, arXiv:2505.18329, 2025
+
 \_\_\_, [Mitchell Riley](https://mvr.hosting.nyu.edu/), _[Commuting Cohesions](https://arxiv.org/abs/2301.13780)_, arXiv:2301.13780, 2023
 
 \_\_\_, _[Orbifolds as Microlinear Types in Synthetic Differential Cohesive HoTT](https://arxiv.org/abs/2205.15887)_, arXiv:2205.15887, 2022
