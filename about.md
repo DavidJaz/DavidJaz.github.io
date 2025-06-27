@@ -33,7 +33,7 @@ I was previously a post-doc working at the [Center for Topological and Quantum S
 
 \_\_\_, _[Modal Fracture of Higher Groups](https://arxiv.org/abs/2106.15390)_, Differential Geometry and its Applications, 2024, arXiv:2106.15390, 2021
 
-\_\_\_, Zyad Hassan, _Higher Schreier Theory in Cubical Agda_, to appear in the Journal of Symbolic Logic (2024)
+\_\_\_, Zyad Hassan, _Higher Schreier Theory in Cubical Agda(https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3D0E95550689C21D11A18E0F531D5DE/S0022481224000781a.pdf/higher-schreier-theory-in-cubical-agda.pdf)_, Journal of Symbolic Logic (2024)
 
 \_\_\_, [Hisham Sati](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/hisham-sati.html), [Urs Schreiber](https://ncatlab.org/nlab/show/Urs+Schreiber) _[Topological Quantum Gates in Homotopy Type Theory](https://arxiv.org/abs/2303.02382)_, in Communications in Mathematical Physics, arXiv:2303.02382, 2023
 
