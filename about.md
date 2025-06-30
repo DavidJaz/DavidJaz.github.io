@@ -62,6 +62,8 @@ E. Hanna, C. Lynch, \_\_\_, C. Richardson, _[Finding Intruder Knowledge with Cap
 
 ## Some Talks and Slides
 
+_A modal proof of the nerve theorem_, at [YaMCatS](https://conferences.leeds.ac.uk/yamcats/meeting-38/), 2025, [\[slides\]](../Talks/nerve_talk_2025.pdf)
+
 _Tangent Bundles of Spheres_, at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 2023, [\[slides\]](../Talks/DJM-Hottest-Dec-2023.pdf) [\[video\]](https://www.youtube.com/watch?v=9T9B9XBjVpk)
 
 _Topological Quantum Gates in Homotopy Type Theory_, at [ACT2023](https://act2023.github.io/), 2023, [\[abstract\]](https://act2023.github.io/papers/paper22.pdf) [\[slides\]](../Talks/TQC-in-HoTT-ACT2023.pdf)
